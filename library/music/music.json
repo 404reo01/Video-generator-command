@@ -1,0 +1,13 @@
+{
+  "tracks": [
+    {
+      "id": "lofi-jazz-retro-coffee-shop",
+      "file": "lofi-jazz-retro-coffee-shop.mp3",
+      "title": "Lofi Jazz Retro Coffee Shop",
+      "artist": "alex-morgan",
+      "source": "https://pixabay.com/music/cafe-lofi-jazz-retro-coffee-shop-560042/",
+      "license": "Pixabay Content License (free commercial use, no attribution required, no standalone redistribution)",
+      "moods": ["lofi", "jazz", "cafe", "cozy", "calm", "retro"]
+    }
+  ]
+}

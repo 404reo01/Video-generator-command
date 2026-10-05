@@ -1,0 +1,56 @@
+{
+  "name": "icons",
+  "width": 16,
+  "height": 16,
+  "transparent": ".",
+  "palette": {
+    "A": {
+      "hex": "#1d1526",
+      "name": "outline"
+    },
+    "C": {
+      "hex": "#f5e6c8",
+      "name": "cream"
+    },
+    "D": {
+      "hex": "#c9b79e",
+      "name": "cream-shadow"
+    },
+    "O": {
+      "hex": "#e8743b",
+      "name": "orange"
+    },
+    "Y": {
+      "hex": "#f7c873",
+      "name": "honey"
+    },
+    "B": {
+      "hex": "#6f7fb0",
+      "name": "dusk"
+    },
+    "N": {
+      "hex": "#4a5a8a",
+      "name": "dusk-shadow"
+    },
+    "G": {
+      "hex": "#8fbf8a",
+      "name": "sage"
+    },
+    "R": {
+      "hex": "#c8553d",
+      "name": "coral"
+    },
+    "P": {
+      "hex": "#3a2649",
+      "name": "plum"
+    },
+    "W": {
+      "hex": "#fff4d8",
+      "name": "highlight"
+    },
+    "M": {
+      "hex": "#9a87a3",
+      "name": "muted"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "@mappa/video",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "sync": "tsx scripts/sync-episode.ts",
+    "studio": "remotion studio src/index.ts",
+    "contact-sheet": "tsx scripts/contact-sheet.ts",
+    "check-plan": "tsx scripts/check-plan.ts",
+    "render-episode": "tsx scripts/render-episode.ts",
+    "catalog": "tsx scripts/catalog.ts",
+    "set-from-images": "tsx scripts/set-from-images.ts"
+  },
+  "dependencies": {
+    "@mappa/shared": "*",
+    "@remotion/cli": "4.0.532",
+    "@remotion/google-fonts": "4.0.532",
+    "@remotion/media": "4.0.532",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "remotion": "4.0.532",
+    "zod": "4.5.4"
+  },
+  "devDependencies": {
+    "@mappa/audio": "*",
+    "@mappa/director": "*",
+    "@mappa/sprites": "*",
+    "@remotion/bundler": "4.0.532",
+    "@remotion/renderer": "4.0.532",
+    "@types/react": "19.3.0"
+  }
+}

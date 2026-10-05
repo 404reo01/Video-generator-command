@@ -1,0 +1,29 @@
+node_modules/
+out/
+dist/
+.env
+*.log
+
+# Episode inputs and generated media stay local; only the example episode is versioned.
+episodes/*
+!episodes/example/
+
+# Archived test episodes: media and renders stay local.
+tests/
+
+# Rendered sprites are build output; regenerate with `npm run render -w @mappa/sprites`.
+packages/sprites/out/
+
+# Remotion public assets are copied by `npm run sync -w @mappa/video`.
+packages/video/public/
+packages/video/out/
+
+# Music keeps its own licence and is not redistributed: only the manifest is versioned.
+library/music/*
+!library/music/music.json
+
+# Raw sticker drops are inputs; the installed pack lives in packages/sprites/characters/<name>/.
+library/stickers/*.png
+
+# Which creator profile /mappa used last on this machine.
+library/channels/.active

@@ -1,0 +1,16 @@
+................
+................
+............AA..
+............AGA.
+.......AA...AGA.
+.......AOA..AGA.
+..AA...AOA..AGA.
+..AYA..AOA..AGA.
+..AYA..AOA..AGA.
+..AYA..AOA..AGA.
+..AYA..AOA..AGA.
+..AYA..AOA..AGA.
+.AAAAAAAAAAAAAAA
+.ACCCCCCCCCCCCCA
+.AAAAAAAAAAAAAAA
+................

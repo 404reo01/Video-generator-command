@@ -1,0 +1,21 @@
+{
+  "name": "@mappa/sprites",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "scripts": {
+    "extract": "tsx scripts/extract.ts",
+    "render": "tsx scripts/render.ts",
+    "stickers": "tsx scripts/install-stickers.ts"
+  },
+  "dependencies": {
+    "pngjs": "^7.0.0",
+    "zod": "4.5.4"
+  },
+  "devDependencies": {
+    "@types/pngjs": "^6.0.5"
+  }
+}

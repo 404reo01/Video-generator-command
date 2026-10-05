@@ -1,0 +1,74 @@
+{
+  "name": "reo",
+  "width": 50,
+  "height": 87,
+  "transparent": ".",
+  "palette": {
+    "A": {
+      "hex": "#33281f",
+      "name": "outline"
+    },
+    "B": {
+      "hex": "#463327",
+      "name": "hair-shadow"
+    },
+    "C": {
+      "hex": "#423a32",
+      "name": "trousers-shadow"
+    },
+    "D": {
+      "hex": "#5e4130",
+      "name": "jacket"
+    },
+    "E": {
+      "hex": "#554c43",
+      "name": "trousers"
+    },
+    "F": {
+      "hex": "#756458",
+      "name": "laptop-edge"
+    },
+    "G": {
+      "hex": "#9a8571",
+      "name": "ground-edge"
+    },
+    "H": {
+      "hex": "#c3815a",
+      "name": "skin-shadow"
+    },
+    "J": {
+      "hex": "#b09372",
+      "name": "ground-shadow"
+    },
+    "K": {
+      "hex": "#d5956a",
+      "name": "skin-mid"
+    },
+    "L": {
+      "hex": "#cfa882",
+      "name": "shirt-shadow"
+    },
+    "M": {
+      "hex": "#f2bd8f",
+      "name": "skin"
+    },
+    "N": {
+      "hex": "#e7cca6",
+      "name": "shirt"
+    },
+    "W": {
+      "hex": "#fff4d8",
+      "name": "bulb-light"
+    },
+    "Y": {
+      "hex": "#f7c873",
+      "name": "bulb"
+    }
+  },
+  "face": {
+    "x": 12,
+    "y": 9,
+    "width": 26,
+    "height": 26
+  }
+}
